@@ -1,1 +1,1 @@
-# Welcome to Jeremy Adamson's readme
+# Welcome to Jeremy Adamson's Reading Notes
