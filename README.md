@@ -17,3 +17,7 @@ Jeremy Adamson's reading notes: [Github](https://github.com/jeremy-adamson/)
 Class 1 - [Markdown](class01.md)
 
 Class 2 - [The Coder's Computer](class02.md)
+
+Class 3 - [Revisions and the Cloud](class03.md)
+
+Class 4 - [Structure web pages with HTML](class04.md)
