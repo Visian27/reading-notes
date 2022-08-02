@@ -10,7 +10,7 @@ Growth mindset to me is about recognizing that skills can be acquired and learne
 - Taking breaks is needed to stay in a positive headspace
 - Focusing on the small victories that come with each step towards progress
 
-Jeremy Adamson's reading notes: [Github](https://github.com/jeremy-adamson/)
+Jeremy Adamson's Github: [Github](https://github.com/jeremy-adamson/)
 
 ## Reflections and Discussion
 
