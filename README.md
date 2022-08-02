@@ -11,9 +11,3 @@ Growth mindset to me is about recognizing that skills can be acquired and learne
 - Focusing on the small victories that come with each step towards progress
 
 Jeremy Adamson's reading notes: [Github](https://github.com/jeremy-adamson/)
-
-## Reflections and Discussion
-
-### 01 - Reflections on Markdown
-
-### 02 - The Coder's Computer
