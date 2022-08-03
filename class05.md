@@ -6,7 +6,7 @@ CSS (Cascading Style Sheets) is a method of overriding the default styling assig
 
 In the event of multiple CSS commands, the most recent is selected.  In the case of inline vs. external or internal.
 
-### Random notes
+### Rough notes from reading
 
 * CSS is a rule based language
 * CSS rule opens with a selector or the html tag which will be targeted
@@ -14,3 +14,7 @@ In the event of multiple CSS commands, the most recent is selected.  In the case
 * Obsolete CSS is still in use so that older sites can still work
 * For external CSS there needs to be a link to it in the head section link rel="stylesheet" href="thething.css"
 * Internal CSS and inline are both allowed but probably not the best
+
+### Other notes
+
+* border width and margin will need tweaking often and some experiementation

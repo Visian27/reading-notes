@@ -13,6 +13,7 @@ It's easy to get lost in the weeds when trying to design a site from scratch.  T
 ### Additional Notes
 
 * Things are auto-styled often such as header tags and lists
+* div, section, li
 
 ### Basic Setup
 
