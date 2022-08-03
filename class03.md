@@ -15,4 +15,8 @@ Code will be typically be in one place for storage (server/remote) and another p
 * git commit -m
 * git push origin main
 
+### Additional Notes
+
+* Repositories are bit due to them being a main cloud storage area and it's able to track/store the changes which are made
+
 [Home](https://jeremy-adamson.github.io/reading-notes/)

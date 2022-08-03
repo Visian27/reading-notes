@@ -10,4 +10,19 @@ It's easy to get lost in the weeds when trying to design a site from scratch.  T
 * HTML
 * CSS - Leaving the styling to the defined unlike in HTML of the past
 
+### Additional Notes
+
+* Things are auto-styled often such as header tags and lists
+
+### Basic Setup
+
+* DOCTYP html
+* open html
+* head => title
+* body => header
+* body => nav
+* body => main
+* body => footer
+* close html
+
 [Home](https://jeremy-adamson.github.io/reading-notes/)

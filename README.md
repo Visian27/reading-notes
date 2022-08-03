@@ -21,3 +21,7 @@ Class 2 - [The Coder's Computer](class02.md)
 Class 3 - [Revisions and the Cloud](class03.md)
 
 Class 4 - [Structure web pages with HTML](class04.md)
+
+Class 5 - [Design web pages with CSS](class05.md)
+
+Class 6
