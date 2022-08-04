@@ -5,3 +5,6 @@
 ### Other notes
 
 * While var is a viable option, typically only let and const are used
+* _console.log() a way to print out whatever is in the parens
+* prompt, to get info from the user.  The question in quotes in the parens
+* alert, puts whatever is in the parens on the screen
