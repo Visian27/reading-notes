@@ -24,4 +24,8 @@ Class 4 - [Structure web pages with HTML](class04.md)
 
 Class 5 - [Design web pages with CSS](class05.md)
 
-Class 6
+Class 6 - [Dynamic web pages with Javascript](class06.md)
+
+Class 7 - [Programming with JavaScript](class07.md)
+
+Class 8 - [Operators and Loops](class08.md)
