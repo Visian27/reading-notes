@@ -16,3 +16,4 @@ Big difference is getting three different languagues to interact with each other
 * x=x+1 is a re-assignment
 * x++ increment
 * x+=2 assignment
+* console.log()
