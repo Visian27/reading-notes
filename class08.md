@@ -1,4 +1,4 @@
-# Reflection and Discussion Class 07
+# Reflection and Discussion Class 08
 
 ## Operators and Loops
 

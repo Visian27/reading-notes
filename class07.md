@@ -2,7 +2,9 @@
 
 ## Programming with JavaScript
 
-JavaScript is fairly similar to traditional programming languages with objects, functions, logic operators, and loops.  
+JavaScript is fairly similar to traditional programming languages (C++, Java, etc.) with objects, functions, logic operators, and loops.
+
+Big difference is getting three different languagues to interact with each other which can be a bit tricky.  Sometimes HTML will be nested inside javascript commands and there's an amount of handwaving that can happen from time to time.  Learning the ins and outs of the interactions will take an amount of time and probably will save quite a bit of hassle in the long-run.
 
 ### Other Notes
 
