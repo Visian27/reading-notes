@@ -29,3 +29,5 @@ Class 6 - [Dynamic web pages with Javascript](class06.md)
 Class 7 - [Programming with JavaScript](class07.md)
 
 Class 8 - [Operators and Loops](class08.md)
+
+Class 9 - [Beyond 102](class09.md)

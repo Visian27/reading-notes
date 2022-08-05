@@ -17,3 +17,5 @@ Big difference is getting three different languagues to interact with each other
 * x++ increment
 * x+=2 assignment
 * console.log()
+
+[Home](https://jeremy-adamson.github.io/reading-notes/)

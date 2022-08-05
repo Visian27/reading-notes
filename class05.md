@@ -18,3 +18,5 @@ In the event of multiple CSS commands, the most recent is selected.  In the case
 ### Other notes
 
 * border width and margin will need tweaking often and some experiementation
+
+[Home](https://jeremy-adamson.github.io/reading-notes/)
